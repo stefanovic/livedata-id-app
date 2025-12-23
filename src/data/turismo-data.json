@@ -1,0 +1,38 @@
+[
+  {
+    "id": "booking-online",
+    "title": "Prenotazioni online strutture ricettive",
+    "unit": "%",
+    "italy": 64,
+    "world": 82,
+    "source": "ENIT + Eurostat (2025)",
+    "insight": "Il digitale nelle prenotazioni turistiche è ancora indietro rispetto alla media UE."
+  },
+  {
+    "id": "digital-pass",
+    "title": "Utilizzo di city pass digitali",
+    "unit": "/1000 turisti",
+    "italy": 145,
+    "world": 320,
+    "source": "World Tourism Tech Report (2025)",
+    "insight": "Pochi comuni offrono soluzioni integrate per turisti digitali."
+  },
+  {
+    "id": "open-data-turismo",
+    "title": "Dataset turistici aperti (eventi, attrazioni)",
+    "unit": "n.",
+    "italy": 89,
+    "world": 275,
+    "source": "Dati.gov.it + EU Tourism Open Data",
+    "insight": "Mancano piattaforme nazionali per la condivisione di dati turistici."
+  },
+  {
+    "id": "mobile-app-comuni",
+    "title": "Comuni con app mobile per turisti",
+    "unit": "%",
+    "italy": 22,
+    "world": 58,
+    "source": "AGID Smart City Index (2025)",
+    "insight": "Solo 1 comune su 5 offre un’app dedicata all’esperienza turistica."
+  }
+]

@@ -38,7 +38,10 @@
           <h3>WebTech Radar</h3>
           <p>Confronto Italia vs Mondo sulle tecnologie web</p>
         </RouterLink>
-        <!-- In futuro: altri demo -->
+       <RouterLink to="/turismo" class="demo-card">
+  <h3>Turismo Digitale</h3>
+  <p>Indicatori nazionali di innovazione turistica</p>
+</RouterLink>
         <!--
         <RouterLink to="/sanita" class="demo-card">
           <h3>Sanità Digitale</h3>
