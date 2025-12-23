@@ -5,6 +5,10 @@
       <p>Confronto tra Italia e media internazionale su innovazione nel settore turistico</p>
     </header>
 
+    <div class="back-link">
+      <RouterLink to="/">&larr; Tutti gli applicativi</RouterLink>
+    </div>
+
     <main class="cards-grid">
       <RadarCard v-for="item in demoData" :key="item.id" :data="item" />
     </main>
