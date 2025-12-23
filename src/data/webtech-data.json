@@ -1,0 +1,49 @@
+[
+  {
+    "id": "vue-adoption",
+    "title": "Adozione Vue.js",
+    "unit": "%",
+    "italy": 8,
+    "world": 12,
+    "source": "W3Techs (2025)",
+    "insight": "L’Italia è indietro del 33% rispetto alla media globale."
+  },
+  {
+    "id": "lcp-performance",
+    "title": "Largest Contentful Paint (LCP)",
+    "unit": "s",
+    "italy": 2.8,
+    "world": 2.3,
+    "source": "HTTP Archive / CrUX (2025)",
+    "insight": "Il web italiano è più lento del 22% nella percezione del caricamento.",
+    "invert": true
+  },
+  {
+    "id": "vite-adoption",
+    "title": "Adozione Vite / Bundler moderni",
+    "unit": "%",
+    "italy": 18,
+    "world": 29,
+    "source": "npm + HTTP Archive (2025)",
+    "insight": "Ancora bassa la diffusione di strumenti di build moderni in Italia."
+  },
+  {
+    "id": "cloud-hosting",
+    "title": "Siti su Cloud/VPS (es. DigitalOcean, AWS)",
+    "unit": "%",
+    "italy": 32,
+    "world": 47,
+    "source": "W3Techs + Datadog (2025)",
+    "insight": "Il cloud è meno diffuso in Italia, specie tra PMI."
+  },
+  {
+    "id": "accessibility",
+    "title": "Siti conformi WCAG AA",
+    "unit": "%",
+    "italy": 41,
+    "world": 54,
+    "source": "WebAIM Million (2025)",
+    "insight": "Accessibilità ancora sottovalutata nel mercato italiano.",
+    "invert": true
+  }
+]
